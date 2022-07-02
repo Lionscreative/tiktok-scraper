@@ -1,0 +1,1 @@
+tiktok-scraper from-file batch.txt 40 -t csv
